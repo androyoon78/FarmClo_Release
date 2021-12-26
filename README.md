@@ -1,7 +1,7 @@
 # FarmClo_Release
 <p><img src="https://github.com/androyoon78/FarmClo_Release/blob/main/flashdownload_start.png?raw=true" /> </p>
 <p>
-<img src="https://github.com/androyoon78/FarmClo_Release/blob/main/flashdownload.png?raw=true" />
+<img src="https://github.com/androyoon78/FarmClo_Release/blob/main/flashdownload.png?raw=true" width="600px" />
   </p>
 
 # FlashDownloadTool 
