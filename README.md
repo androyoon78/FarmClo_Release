@@ -19,17 +19,11 @@ https://www.espressif.com/en/support/download/other-tools
 <img src="https://github.com/androyoon78/FarmClo_Release/blob/main/farmcloconfig.png?raw=true" width="300px" />
 * 파일이름을 "config.txt"로 해야함.
 * 아래와 같은 format으로 작성해야함.
------------------------------------
+- ----------------------------------
 
 SERVERADDRESS=farmclo.com
-
 PORTNUMBER=4040  
-
 TEMPERATUREOFFSET=0  
-
 ACTIVETIME=300  
-
-
 DEEPSLEEPTIME=0  
-
 - ----------------------------------
