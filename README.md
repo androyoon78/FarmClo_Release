@@ -29,3 +29,7 @@ TEMPERATUREOFFSET=0
 ACTIVETIME=300  
 DEEPSLEEPTIME=0  
 - ----------------------------------
+
+# Device ID (UUID) 추출기 사용법
+![image](https://user-images.githubusercontent.com/70673576/149256668-ba0da733-6a20-426b-a1f2-0e3616160bad.png)
+![image](https://user-images.githubusercontent.com/70673576/149256712-c2f47b94-f865-4c3f-8839-7641f8bf36e2.png)
